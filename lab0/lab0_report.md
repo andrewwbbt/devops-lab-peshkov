@@ -6,7 +6,7 @@ Group: U4225<br>
 Author: Peshkov Andrey Konstantinovich<br>
 Lab: Lab0<br>
 Date of create: 04.09.2026<br>
-Date of finished: Ожидается защита
+Date of finished: 
 
 # Лабораторная работа №0
 
