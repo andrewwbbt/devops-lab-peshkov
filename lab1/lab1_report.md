@@ -34,7 +34,6 @@ Docker version 29.7.2, build a7dcaa6.
 
 Команда `docker images` показывает скачанные локальные образы. Команда `docker ps` показывает работающие контейнеры. Команда `docker ps -a` показывает все контейнеры, включая остановленные.
 
-![Проверка версии Docker, запуск hello-world и просмотр контейнеров]
 <img width="1547" height="837" alt="image_2026-09-07_19-06-01" src="https://github.com/user-attachments/assets/35cc884a-7bc9-4730-a668-ca1aab6d02e2" />
 
 
@@ -70,18 +69,18 @@ Docker version 29.7.2, build a7dcaa6.
 
 Контейнер `ubuntu-test` сохранился в остановленном состоянии.
 
-![Загрузка образа Ubuntu и установка curl]
+
 <img width="1600" height="1412" alt="image_2026-09-07_19-20-20" src="https://github.com/user-attachments/assets/e488a6a9-a7af-4a5c-9d29-b15305a23a11" />
 
 
 *Рисунок 2 — запуск контейнера Ubuntu, обновление пакетов и установка curl.*
 
-![Проверка установленного curl и состояние контейнера Ubuntu]
+
 <img width="1601" height="1408" alt="image_2026-09-07_19-20-36" src="https://github.com/user-attachments/assets/18c56e76-e062-4968-a3d3-d86066560706" />
 <img width="1599" height="1406" alt="image_2026-09-07_19-20-56" src="https://github.com/user-attachments/assets/88f540e1-8282-4800-b92d-6c2bfeddf92d" />
 
 
-*Рисунок 3 — проверка curl и остановленный контейнер ubuntu-test.*
+*Рисунки 3 и 4 — проверка curl и остановленный контейнер ubuntu-test.*
 
 ### 3. Запуск веб-сервера Nginx
 
@@ -107,11 +106,10 @@ Docker version 29.7.2, build a7dcaa6.
 
 `docker logs web-server`
 
-![Запуск Nginx, проброс порта и проверка страницы]
 <img width="1259" height="1335" alt="image_2026-09-07_19-26-57" src="https://github.com/user-attachments/assets/4041a322-e584-4ee8-a7ff-8250ba8c7f7f" />
 
 
-*Рисунок 4 — запуск контейнера Nginx и ответ веб-сервера.*
+*Рисунок 5 — запуск контейнера Nginx и ответ веб-сервера.*
 
 Для подключения к контейнеру была выполнена команда:
 
@@ -124,11 +122,10 @@ Docker version 29.7.2, build a7dcaa6.
 
 Определена версия `nginx/1.31.5`. В каталоге веб-сервера найдены файлы `index.html` и `50x.html`.
 
-![Проверка Nginx внутри контейнера]
 <img width="1257" height="394" alt="image_2026-09-07_19-27-29" src="https://github.com/user-attachments/assets/7069938e-dc7e-4e7e-824e-7323655c5784" />
 
 
-*Рисунок 5 — подключение к контейнеру и проверка Nginx.*
+*Рисунок 6 — подключение к контейнеру и проверка Nginx.*
 
 ### 4. Управление контейнером
 
@@ -152,11 +149,10 @@ Docker version 29.7.2, build a7dcaa6.
 
 `docker rmi nginx:alpine`
 
-![Остановка, повторный запуск и удаление контейнера Nginx]
 <img width="1252" height="731" alt="image_2026-09-07_19-39-57" src="https://github.com/user-attachments/assets/9dc70590-3179-4ff6-af3b-7407523a980e" />
 
 
-*Рисунок 6 — управление контейнером web-server и удаление образа nginx:alpine.*
+*Рисунок 7 — управление контейнером web-server и удаление образа nginx:alpine.*
 
 ### 5. Работа с Docker Volume
 
@@ -196,11 +192,10 @@ Hello from volume.
 
 `docker rm -f volume-test-2`
 
-![Создание и проверка Docker Volume]
 <img width="958" height="749" alt="image_2026-09-07_19-44-47" src="https://github.com/user-attachments/assets/36439b71-098c-47ed-ab3b-13b852ec6e06" />
 
 
-*Рисунок 7 — создание тома, запись файла и проверка его сохранности во втором контейнере.*
+*Рисунок 8 — создание тома, запись файла и проверка его сохранности во втором контейнере.*
 
 ## Результат
 
