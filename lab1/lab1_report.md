@@ -10,6 +10,9 @@ Date of finished:
 
 # Лабораторная работа №1
 
+### 0. Скачивание и установка Docker
+<img width="1181" height="801" alt="DOCK" src="https://github.com/user-attachments/assets/e2a96d76-471b-4a6d-8ae1-95ce6dccec6e" />
+
 ### 1. Проверка установки Docker
 
 Для проверки установленной версии Docker была выполнена команда:
