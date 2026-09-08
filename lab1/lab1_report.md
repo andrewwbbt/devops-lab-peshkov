@@ -2,9 +2,9 @@ University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FTMI](https://ftmi.itmo.ru/)  
 Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
 Year: 2025/2026  
-Group: U4225
-Author: Peshkov Andrey Konstantinovich
-Lab: Lab 1  
+Group: U4225<br>
+Author: Peshkov Andrey Konstantinovich<br>
+Lab: Lab 1<br>
 Date of create: 08.09.2026  
 Date of finished:  
 
