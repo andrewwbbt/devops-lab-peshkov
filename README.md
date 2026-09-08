@@ -12,3 +12,4 @@ Email: steam.peshkovcs@gmail.com
 ## План изучения DevOps
 
 1. Git и GitHub
+2. Docker
