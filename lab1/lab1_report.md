@@ -99,6 +99,7 @@ docker ps
 curl http://localhost:8080
 
 В ответ была получена стандартная HTML-страница Welcome to nginx!.
+<img width="529" height="216" alt="18c162ab3d64668d4fac4e07551403e4686b58f2-1058x431" src="https://github.com/user-attachments/assets/057e31e1-ce93-48fd-9876-1bcf52c69b53" />
 
 Также были просмотрены логи контейнера:
 
