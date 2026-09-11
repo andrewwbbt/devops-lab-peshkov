@@ -16,7 +16,7 @@ Date of finished:
 
 Проверена установка Git:
 
-`git --version`
+git --version
 
 Получена версия:
 
@@ -24,12 +24,12 @@ Git version 2.53.0.windows.1.
 
 Были настроены имя пользователя и электронная почта Git:
 
-`git config --global user.name "andrewwbbt"`  
-`git config --global user.email "steam.peshkovcs@gmail.com"`
+git config --global user.name "andrewwbbt"  
+git config --global user.email "steam.peshkovcs@gmail.com"
 
 Создан SSH-ключ типа ED25519 и добавлен в аккаунт GitHub. Подключение к GitHub успешно проверено командой:
 
-`ssh -T git@github.com`
+ssh -T git@github.com
 
 Получен ответ:
 
@@ -37,24 +37,24 @@ Hi andrewwbbt! You've successfully authenticated, but GitHub does not provide sh
 
 Репозиторий был клонирован на компьютер:
 
-`git clone git@github.com:andrewwbbt/devops-lab-peshkov.git`
+git clone git@github.com:andrewwbbt/devops-lab-peshkov.git
 
 Создана ветка для разработки:
 
-`git switch -c develop`
+git switch -c develop
 
-В репозитории были подготовлены файлы `README.md`, `.gitignore` и `CONTRIBUTING.md`.
+В репозитории были подготовлены файлы README.md, .gitignore и CONTRIBUTING.md.
 
 Изменения добавлены в индекс и сохранены коммитом:
 
-`git add .`  
-`git commit -m "Initial project setup"`
+git add .  
+git commit -m "Initial project setup"
 
-Ветка `develop` отправлена на GitHub:
+Ветка develop отправлена на GitHub:
 
-`git push -u origin develop`
+git push -u origin develop
 
-На GitHub был создан Pull Request из ветки `develop` в `main`. Pull Request был объединён с основной веткой, после чего ветка `develop` удалена.
+На GitHub был создан Pull Request из ветки develop в main. Pull Request был объединён с основной веткой, после чего ветка develop удалена.
 
 ## Результат
 
@@ -62,8 +62,8 @@ Hi andrewwbbt! You've successfully authenticated, but GitHub does not provide sh
 
 - настроен Git;
 - создан и подключён SSH-ключ;
-- создан репозиторий GitHub `devops-lab-peshkov`;
+- создан репозиторий GitHub devops-lab-peshkov;
 - настроена работа с локальным репозиторием;
-- создана ветка `develop`;
+- создана ветка develop;
 - выполнен коммит и отправка изменений на GitHub;
 - создан и объединён Pull Request.
