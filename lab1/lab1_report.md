@@ -4,7 +4,7 @@ Course: [Введение в веб технологии](https://itmo-ict-facul
 Year: 2026/2027  
 Group: U4225<br>
 Author: Peshkov Andrey Konstantinovich<br>
-Lab: Lab 1<br>
+Lab: Lab1<br>
 Date of create: 08.09.2026  
 Date of finished:  
 
