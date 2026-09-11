@@ -33,7 +33,7 @@ Date of finished:
 Создан публичный Docker Hub-репозиторий `andrewwbbt/devops-lab`.
 <img width="904" height="461" alt="image" src="https://github.com/user-attachments/assets/b6c84275-1b18-4570-9f31-b3e68b2e9da0" />
 
-*Рисунок 1 — создание публичного Docker Hub-репозитория `devops-lab`.*
+*Рисунок 1 — проверка созданного публичного Docker Hub-репозитория `devops-lab`.*
 
 ### 3. Настройка секретов GitHub
 
@@ -91,7 +91,7 @@ Workflow запускается при каждом push в ветку `main`. �
 
 <img width="1213" height="525" alt="image" src="https://github.com/user-attachments/assets/157023f6-6bf5-4f9c-b434-fc691c73a0a7" />
 
-*Рисунок 7 — опубликованный Docker-образ `andrewwbbt/devops-lab:latest`.*
+*Рисунок 6 — опубликованный Docker-образ `andrewwbbt/devops-lab:latest`.*
 
 ## Результат
 
