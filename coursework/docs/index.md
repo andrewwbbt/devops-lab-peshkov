@@ -50,6 +50,7 @@
 ## Полезные ссылки
 
 - [GitHub](https://github.com/andrewwbbt)
+- [Отчёт по курсовой работе](https://github.com/andrewwbbt/devops-lab-peshkov/blob/main/coursework/coursework_report.md)
 - [Университет ИТМО](https://itmo.ru/ru/)
 
 > Сайт создан с использованием MkDocs и темы Material.
