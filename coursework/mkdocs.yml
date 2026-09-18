@@ -1,0 +1,48 @@
+site_name: Персональный сайт Андрея Пешкова
+site_description: Учебный персональный сайт студента ИТМО
+site_author: Андрей Пешков
+site_url: https://andrewwbbt.github.io/devops-lab-peshkov/
+
+theme:
+  name: material
+  language: ru
+  logo: images/logo.png
+  favicon: images/logo.png
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+  - Достижения: achievements.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/andrewwbbt
+      name: GitHub
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/aapeshkov
+      name: Telegram
+
+copyright: Copyright © 2026 Андрей Пешков

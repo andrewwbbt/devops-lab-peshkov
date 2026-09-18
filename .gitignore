@@ -20,3 +20,6 @@ $RECYCLE.BIN/
 # Temporary files
 *.tmp
 *.temp
+
+# MkDocs build output
+/coursework/site/
