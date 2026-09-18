@@ -6,13 +6,15 @@
 
 ## Навыки
 
+- английский язык;
+- Microsoft Excel;
+- Photoshop;
+- Codex;
 - Git и GitHub;
 - Docker;
 - Python;
 - Markdown;
-- MkDocs;
-- английский язык;
-- Codex.
+- MkDocs.
 
 ## Интересы
 
@@ -25,9 +27,13 @@
 
 | Навык | Уровень |
 |---|---|
+| Английский язык | Рабочий уровень |
+| Microsoft Excel | Базовый |
+| Photoshop | Базовый |
+| Codex | Базовый |
 | Git | Базовый |
 | Docker | Базовый |
 | Python | Базовый |
+| Markdown | Базовый |
+| MkDocs | Базовый |
 | Linux | Базовый |
-| Английский язык | Рабочий уровень |
-| Codex | Базовый |
