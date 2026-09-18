@@ -31,9 +31,9 @@
 | Microsoft Excel | Базовый |
 | Photoshop | Базовый |
 | Codex | Базовый |
-| Git | Базовый |
-| Docker | Базовый |
-| Python | Базовый |
-| Markdown | Базовый |
-| MkDocs | Базовый |
+| Git | Начинающий |
+| Docker | Начинающий |
+| Python | Начинающий |
+| Markdown | Начинающий |
+| MkDocs | Начинающий |
 | Linux | Базовый |
