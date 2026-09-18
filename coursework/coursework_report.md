@@ -112,11 +112,11 @@ coursework/
 
 <img width="1075" height="656" alt="image" src="https://github.com/user-attachments/assets/51e72383-292a-4bed-936f-992d7904a194" />
 
-*Рисунок 11 — настройка GitHub Pages для публикации через GitHub Actions.*
+*Рисунок 10 — настройка GitHub Pages для публикации через GitHub Actions.*
 
 <img width="2074" height="1004" alt="image" src="https://github.com/user-attachments/assets/252895da-8ebc-4347-85b3-29fc595cc0dd" />
 
-*Рисунок 12 — успешная сборка и публикация сайта через GitHub Actions.*
+*Рисунок 11 — успешная сборка и публикация сайта через GitHub Actions.*
 
 После завершения workflow сайт опубликован по адресу [https://andrewwbbt.github.io/devops-lab-peshkov/](https://andrewwbbt.github.io/devops-lab-peshkov/).
 
